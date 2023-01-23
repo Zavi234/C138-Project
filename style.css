@@ -1,0 +1,15 @@
+.heading
+{
+    width: 100%;
+    size: 150px!important;
+}
+
+canvas
+{
+    border-style: ridge;
+}
+
+.heading button
+{
+    float: right;
+}
